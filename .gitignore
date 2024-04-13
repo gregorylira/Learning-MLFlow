@@ -2,4 +2,4 @@ data/
 logs/
 mlruns/
 
-catboost_info/
+src/catboost_info/
