@@ -1,5 +1,3 @@
-Certainly! Here's the README in English:
-
 # Fraud Detection Pipeline
 
 This project consists of a pipeline for detecting fraud in bank accounts using machine learning. It performs tasks from data preprocessing to hyperparameter tuning and training the final model.
